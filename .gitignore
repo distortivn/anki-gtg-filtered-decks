@@ -1,0 +1,9 @@
+# Anki writes the user's saved settings here. Local state, not source.
+meta.json
+
+__pycache__/
+*.pyc
+
+# Build output
+*.ankiaddon
+dist/

@@ -1,0 +1,16 @@
+{
+  "gtg_filter_configs": {},
+  "last_used": {
+    "filter": "",
+    "start_hour": 10,
+    "end_hour": 22,
+    "cards_per_hour": 45,
+    "decks_per_hour": 3,
+    "parent_deck": "",
+    "day_name": "day1",
+    "naming_word": "Day",
+    "course_id": ""
+  },
+  "naming_presets": ["Day", "Session", "Round", "Phase", "Sprint", "Wave", "Batch", "Cycle", "Stage", "Leg"],
+  "courses": {}
+}
